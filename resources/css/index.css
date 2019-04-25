@@ -1,0 +1,30 @@
+.whole{
+  background-color: black;
+  text-align: center;
+}
+
+a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#n{
+  font-size: 21px;
+  color: gray;
+}
+
+#footer p{
+  text-align: right;
+  color: gray;
+}
